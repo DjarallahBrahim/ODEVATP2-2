@@ -11,5 +11,5 @@ before_install:
 
 "scripts": {
   "start": "node index.js",
-  "test": "mocha"
+  "test": "npm test"
 }
