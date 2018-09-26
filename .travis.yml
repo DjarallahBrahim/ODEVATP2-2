@@ -10,6 +10,5 @@ before_install:
 
 
 "scripts": {
-  "start": "node index.js",
-  "test": "npm test"
-}
+  "start": "node index.js"
+  }
