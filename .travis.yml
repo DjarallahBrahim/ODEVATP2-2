@@ -9,6 +9,4 @@ before_install:
   npm install
 
 
-"scripts": {
-  "start": "node index.js"
-  }
+script: 'true'
