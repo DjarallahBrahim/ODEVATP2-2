@@ -9,4 +9,8 @@ before_install:
   npm install
 
 
-script: 'true'
+"scripts": {
+  "start": "node index.js",
+  "test": "true"
+
+}
